@@ -1,4 +1,4 @@
-Wizard component utilizing html5 form.
+React Wizard Component with html5 form validation.
 
 ## Getting Started
 
