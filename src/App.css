@@ -1,0 +1,23 @@
+body {
+  letter-spacing: 0.01em;
+  line-height: normal;
+}
+
+blockquote {
+  margin-top: 80px;
+}
+
+pre {
+  font-size: 14px;
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  overflow: auto;
+  padding: 5px;
+  background-color: #eee;
+  width: 650px;
+  padding: 20px 10px;
+}
+
+.congratsMsg {
+  padding-left: 30px;
+}
