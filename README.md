@@ -4,9 +4,9 @@ React Wizard Component with html5 form validation.
 
 Clone the project:
 
-`git clone https://jerome_franco@bitbucket.org/jerome_franco/digix-task.git`
+`git clone https://github.com/JeromeFranco/wizard-component.git`
 
-`cd digix-task`
+`cd wizard-component`
 
 
 Install JSON Server:
