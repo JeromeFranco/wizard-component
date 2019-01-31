@@ -1,4 +1,4 @@
-React Wizard Component with html5 form validation.
+React Wizard Component with html5 form validation. This is an exercise to demonstrate [react-testing-library](https://github.com/kentcdodds/react-testing-library)
 
 ## Getting Started
 
